@@ -1,0 +1,11 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+
+  I have known a bit of web development before, but some tags were new. I have not used <figure> tag before, that was a new thing for me. <Sub> and <sup> tags were new as well. I find creating the html page quite easy, the most difficult thing being finding the right wording to type into the Google search. In this project, however, the wording was given in advance. The main strategy so far is googling. Usually the right answer is given as a feature snippet.
